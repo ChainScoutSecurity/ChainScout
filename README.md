@@ -1,5 +1,5 @@
 # ChainScout — Automated Smart Contract Security Scanner
-
+[![Giveth Project](https://img.shields.io/badge/Support_ChainScout_on-Giveth-8A2BE2)](https://giveth.io/project/chainscoutsecurity)
 <p align="center">
   <img src="https://img.shields.io/badge/status-MVP%20Ready-brightgreen" alt="MVP Status">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
